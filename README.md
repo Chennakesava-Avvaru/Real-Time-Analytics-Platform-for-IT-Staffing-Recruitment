@@ -1,4 +1,4 @@
-# Staffing-Origin-Live
+# Real-Time Analytics Platform for IT Staffing Recruitment (SOL)
 
 - Project Summary: Design and implement an analytics platform using Azure data engineering services to optimize recruitment processes through real-time data processing and insights.
 
