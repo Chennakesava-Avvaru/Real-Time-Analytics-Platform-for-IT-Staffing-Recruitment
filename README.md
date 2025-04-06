@@ -1,4 +1,4 @@
-# Real-Time Analytics Platform for IT Staffing Recruitment (SOL)
+# Real-Time Analytics Platform for IT Staffing Recruitment
 
 - Project Summary: Design and implement an analytics platform using Azure data engineering services to optimize recruitment processes through real-time data processing and insights.
 
